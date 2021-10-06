@@ -1,2 +1,3 @@
 # k8s
-k8s - Kubernetes reference
+# cat /etc/redhat-release 
+Red Hat Enterprise Linux Server release 7.9 (Maipo)
